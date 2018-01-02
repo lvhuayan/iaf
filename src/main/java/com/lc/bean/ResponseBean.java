@@ -1,10 +1,4 @@
 package com.lc.bean;
-
-
-
-
-
-
 public  class ResponseBean {
     
 	
